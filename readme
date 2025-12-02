@@ -12,5 +12,5 @@ Fully automated daily pipeline that scrapes and cleans real-time pricing, rating
 Python • BeautifulSoup • pandas • Selenium • requests
 
 ## Sample Output (updated daily)
-![Sample dashboard](sample_output.png)
+![Daily Investor-Style Output – Live Example](https://i.imgur.com/2Kj9XsP.png)
 
