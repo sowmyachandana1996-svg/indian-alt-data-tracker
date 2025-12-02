@@ -1,0 +1,16 @@
+# Indian Consumer Internet Alternative Data Tracker
+
+Fully automated daily pipeline that scrapes and cleans real-time pricing, ratings, and availability data for 70+ Indian consumer brands (Swiggy, Zomato, Blinkit, Flipkart, Nykaa, etc.).
+
+## Features
+- Runs daily (or on demand)
+- Tracks menu prices, discounts, ratings, delivery times, stock status
+- Automatically flags anomalies (>10% price change, rating drops, out-of-stock alerts)
+- Outputs clean CSV + investor-style one-page summary
+
+## Tech Stack
+Python • BeautifulSoup • pandas • Selenium • requests
+
+## Sample Output (updated daily)
+![Sample dashboard](sample_output.png)
+
